@@ -14,4 +14,7 @@ class MELT_API AMeltGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+	
+	protected:
+	
 };
